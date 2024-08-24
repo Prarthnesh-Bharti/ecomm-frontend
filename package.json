@@ -58,5 +58,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://ecomm-backend-z8vp.onrender.com"
+  "proxy": "http://192.168.29.21:4000"
 }
